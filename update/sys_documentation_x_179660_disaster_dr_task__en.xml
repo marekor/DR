@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="DR task" language="en" table="x_179660_disaster_dr_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>DR task</label>
+            <language>en</language>
+            <name>x_179660_disaster_dr_task</name>
+            <plural>DR tasks</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-12-23 15:47:47</sys_created_on>
+            <sys_id>6adb4190db13030067cbfcdfbf9619f3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>DR task</sys_name>
+            <sys_package display_value="Disaster Recovery" source="x_179660_disaster">cbd02967db32030067cbfcdfbf9619a2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Disaster Recovery">cbd02967db32030067cbfcdfbf9619a2</sys_scope>
+            <sys_update_name>sys_documentation_x_179660_disaster_dr_task__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-12-23 15:47:47</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="DR task" max_length="40" name="x_179660_disaster_dr_task" type="collection"/>
+</database>
