@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="location" label="Location" language="en" table="x_179660_disaster_vulnerabilities">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <help/>
+            <hint/>
+            <label>Location</label>
+            <language>en</language>
+            <name>x_179660_disaster_vulnerabilities</name>
+            <plural>Locations</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-01-06 22:21:14</sys_created_on>
+            <sys_id>6e2c62f4db23030067cbfcdfbf9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location</sys_name>
+            <sys_package display_value="Disaster Recovery" source="x_179660_disaster">cbd02967db32030067cbfcdfbf9619a2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Disaster Recovery">cbd02967db32030067cbfcdfbf9619a2</sys_scope>
+            <sys_update_name>sys_documentation_x_179660_disaster_vulnerabilities_location_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-01-06 22:21:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

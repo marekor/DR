@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Risks" max_length="40" name="x_179660_disaster_risks" type="collection">
+        <element choice="1" label="Impact" max_length="40" name="impact" type="choice">
+            <choice/>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="RPN" max_length="40" name="rpn" type="choice">
+            <choice/>
+        </element>
+        <element label="Threat" max_length="40" name="threat" reference="x_179660_disaster_threats" type="string"/>
+        <element label="Vulnerabilities" max_length="40" name="vulnerabilities" reference="x_179660_disaster_vulnerabilities" type="string"/>
+    </element>
+</database>
